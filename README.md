@@ -1,6 +1,7 @@
 # DevCon Davao Project - Covid19 Tracker API
 
 ![GitHub](https://img.shields.io/github/license/DevconDavao/devcon-davao-covid19-tracker-api)
+[![js-standard-style](https://img.shields.io/badge/code%20style-airbnb%2Fjavascript-green)](https://github.com/airbnb/javascript)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 ### Contributing
@@ -19,4 +20,4 @@ To setup your development environment, do the following:
 1. Copy `serviceflag.json.tpl` and rename to `serviceflag.json`. You can edit the file to Enable/Disable features as needed.
 1. Do `npm install` to install project dependencies
 1. Run server in development mode using `npm run start` or `npm run start:dev`
-1. Open the app in the browser `localhost:3000` (default)
+1. Open the app in the browser `localhost:8080` (default)
