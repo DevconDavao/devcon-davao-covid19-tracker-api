@@ -28,7 +28,7 @@
     "fastify-swagger": "^2.6.0",
     "make-promises-safe": "^5.1.0",
     "module-alias": "^2.2.2",
-    "mongoose": "^5.9.25"
+    "mongoose": "^5.13.15"
   },
   "devDependencies": {
     "commitizen": "^4.1.2",
